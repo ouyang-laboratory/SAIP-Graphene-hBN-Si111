@@ -28,9 +28,3 @@ The source files require compatible GPUMD or LAMMPS installations. The LAMMPS pa
 | `control.in` | FHI-aims calculation settings and basis definitions. |
 | `geometry.in_low_strain` | Low-strain atomic structure in FHI-aims format; coordinates in Å. |
 | `geometry.in_high_strain` | High-strain atomic structure in FHI-aims format; coordinates in Å. |
-
-Sliding PES energies are referenced to the minimum energy of each surface. The supplied tables remain subject to the provenance checks noted below.
-
-## Notes
-
-Original files are preserved. The control and geometry templates are currently placed under the opposite material directories, and the low-strain h-BN PES header is mislabeled. These labeling issues and outstanding numerical-provenance checks require resolution before a validated release.
