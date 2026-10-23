@@ -6,7 +6,7 @@ DFT reference data and SAIP parameter files for graphene/Si(111) and h-BN/Si(111
 
 The `Graphene_Si(111)/` and `h-BN_Si(111)/` directories contain the following data.
 
-All energies are absolute total energies in eV. Distances and in-plane coordinates are in Å.
+All energies are in eV. Distances and in-plane coordinates are in Å.
 
 | File | Description |
 | --- | --- |
